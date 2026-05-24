@@ -52,8 +52,8 @@
 
       ```env
       PORT=8000
-      DB_HOST=mongodb+srv://guysteam15:guysteam15admin@myserverdb.kjxwcos.mongodb.net/?appName=MyServerDB
-      JWT_SECRET_KEY=mysecretkeyguy12345
+      DB_HOST=DATABASE
+      JWT_SECRET_KEY=SECRECT_KEY
       ```
 
 5.  **הרצת השרת:**
